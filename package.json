@@ -1,0 +1,14 @@
+{
+    "name": "ipcalc.js",
+    "version": "1.0.0",
+    "description": "A Node.js module to parse everything about an IP.",
+    "main": "index.js",
+    "author": "Eduardo Alvarez",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^7.32.0"
+    },
+    "repository": {
+        "url": "https://github.com/ed-alvarez/ipcalc.js"
+    }
+}
